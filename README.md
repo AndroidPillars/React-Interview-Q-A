@@ -2,6 +2,6 @@
 
 # List of Questions
 
-| S.No | Content |
+| S.No | Questions |
 | --------	 | ------------ |
 | 1 | [HTML](README.md#html) |
